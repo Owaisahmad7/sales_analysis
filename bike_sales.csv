@@ -1,4 +1,4 @@
-brand,model,cc,segment,year,speedometer_type,top_speed_kmh,mileage_kmpl,fuel_tank_liters,factory_price_inr,gst_rate_pct,gst_amount_inr,ex_showroom_inr,on_road_price_inr,overall_score,price_increase_scenario_pct,buyer_behaviour,price_sensitivity
+bike_brand,model,cc,segment,year,speedometer_type,top_speed_kmh,mileage_kmpl,fuel_tank_liters,factory_price_inr,gst_rate_pct,gst_amount_inr,ex_showroom_inr,on_road_price_inr,overall_score,price_increase_scenario_pct,buyer_behaviour,price_sensitivity
 Honda,Hornet 2.0,184,mid,2020,Digital,137,43.8,10.1,100781,28.0,28219,129000,147604,70,9.3,Will likely switch brand,High
 Bajaj,Pulsar N250,249,mid,2024,Digital,157,33.2,14.9,123438,28.0,34562,158000,185890,71,4.1,Might reconsider,Medium
 Hero,Splendor Plus,97,budget,2020,Analog,95,64.2,8.7,60156,28.0,16844,77000,89751,57,2.3,Might reconsider,Medium
